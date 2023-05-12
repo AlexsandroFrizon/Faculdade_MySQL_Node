@@ -55,7 +55,5 @@ module.exports = {
             res.json(results);
         });
     }
-
-
 }
 
